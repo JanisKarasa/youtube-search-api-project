@@ -8,7 +8,7 @@
 
 Re-creating the YouTube Homepage with real data:
 
-👉 Connect to YouTube "Search" API
-👉 Create an AJAX request to fetch data
-👉 Render JSON data on the page with dynamic HTML
-👉 Allow user to search (event listener)
+👉 Connect to YouTube "Search" API <br>
+👉 Create an AJAX request to fetch data <br>
+👉 Render JSON data on the page with dynamic HTML <br>
+👉 Allow user to search (event listener) <br>
